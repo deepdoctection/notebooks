@@ -22,18 +22,15 @@ The following notebooks are stored:
 - Fine tuning models
 
 [Custom_Pipeline.ipynb](Custom_Pipeline.ipynb): 
--Model catalog and registries
--Predictors
--Pipeline backbones
--Pipelines.
+- Model catalog and registries
+- Predictors
+- Pipeline backbones
+- Pipelines.
 
 [Using_LayoutLM_for_sequence_classification.ipynb](Using_LayoutLM_for_sequence_classification.ipynb): 
--Fine tuning LayoutLM for sequence classification on a custom dataset
--Evaluation 
+- Fine tuning LayoutLM for sequence classification on a custom dataset
+- Evaluation 
 Building and running a production pipeline 
 
 
-To use the notebooks deepdoctection must be installed. 
- 
-
-Translated with www.DeepL.com/Translator (free version)
+To use the notebooks **deep**doctection must be installed. 
