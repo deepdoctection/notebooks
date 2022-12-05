@@ -34,6 +34,3 @@ Building and running a production pipeline
 
 
 To use the notebooks deepdoctection must be installed. 
- 
-
-Translated with www.DeepL.com/Translator (free version)
