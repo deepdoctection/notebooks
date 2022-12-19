@@ -12,7 +12,8 @@ In addition, the repo contains a folder with examples that are used in the noteb
 
 The following notebooks are stored:
 
-[Get_Started.ipynb](Get_Started.ipynb): Introduction to **deep**doctection
+[Get_Started.ipynb](Get_Started.ipynb): 
+- Introduction to **deep**doctection
 - Analyzer 
 - Output structure.
 
