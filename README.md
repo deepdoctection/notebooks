@@ -48,5 +48,8 @@ In addition, the repo contains a folder with examples that are used in the noteb
 - Evaluation 
 - Building and running a production pipeline 
 
+[Running_pre_trained_models_from_other_libraries.ipynb](Running_pre_trained_models_from_other_libraries.ipynb)
+- Installing and running pre-trained models provided by Layout-Parser
+- Adding new categories
 
 To use the notebooks **deep**doctection must be installed. 
