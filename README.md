@@ -52,4 +52,35 @@ In addition, the repo contains a folder with examples that are used in the noteb
 - Installing and running pre-trained models provided by Layout-Parser
 - Adding new categories
 
+The next three notebooks are experiments on a custom dataset for token classification that has been made available 
+through [Huggingface](https://huggingface.co/datasets/deepdoctection/FRFPE). It shows, how to train and evaluate each 
+model of the LayoutLM family and how to track experiments with W&B. 
+
+[Layoutlm_v1_on_custom_token_classification.ipynb](Layoutlm_v1_on_custom_token_classification.ipynb)
+- LayoutLMv1 for financial report NER
+- Defining object types
+- Visualization and display of ground truth
+- Defining Dataflow and Dataset
+- Defining a split and saving the split distribution as W&B artifact 
+- LayoutLMv1 training
+- Further exploration of evaluation
+- Evaluation with confusion matrix
+- Visualizing predictions and ground truth
+- Evaluation on test set
+- Changing training parameters and settings
+
+[Layoutlm_v2_on_custom_token_classification.ipynb](Layoutlm_v2_on_custom_token_classification.ipynb)
+- LayoutLMv2 for financial report NER
+- Defining `ObjectTypes`, Dataset and Dataflow
+- Loading W&B artifact and building dataset split
+- Exporing the language distribustion across the split
+- Evaluation
+- LayoutXLM for financial report NER
+- Training XLM models on separate languages
+
+[Layoutlm_v3_on_custom_token_classification.ipynb](Layoutlm_v3_on_custom_token_classification.ipynb)
+- LayoutLMv3 for financial report NER
+- Evaluation
+- Conclusion
+
 To use the notebooks **deep**doctection must be installed. 
