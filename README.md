@@ -23,6 +23,22 @@ In addition, the repo contains a folder with examples that are used in the noteb
 - Layout detection models
 - OCR matching and reading order
 
+[Analyzer_Configuration.ipynb](Analyzer_Configuration.ipynb)
+- Analyzer Configuration
+- How to change configuration
+- High level Configuration
+- Layout models
+- Table transformer
+- Custom model
+- Table segmentation
+- Text extraction
+- PDFPlumber
+- Tesseract
+- DocTr
+- AWS Textract
+- Word matching
+- Text ordering
+
 [Custom_Pipeline.ipynb](Custom_Pipeline.ipynb): 
 - Model catalog and registries
 - Predictors
