@@ -6,7 +6,7 @@
   </h3>
 </p>
 
-In this repo you will find jupyter notebooks that used to be in the main repo [**deep**doctection](https://github.com/deepdoctection/deepdoctection). 
+In this repo you will find jupyter notebooks that used to be in the main repo [**deep**doctection](https://github.com/deepdoctection/deepdoctection). If you encouter problems, feel free to open an issue in the **deep**doctection repository.
 
 In addition, the repo contains a folder with examples that are used in the notebooks.
 
