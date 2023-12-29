@@ -39,6 +39,11 @@ In addition, the repo contains a folder with examples that are used in the noteb
 - Word matching
 - Text ordering
 
+[Analyzer_with_Table_Transformer.ipynb](Analyzer_with_Table_Transformer.ipynb):
+- Analyzer configuration for running Table Transformer
+- General configuration
+- Table segmentation
+
 [Custom_Pipeline.ipynb](Custom_Pipeline.ipynb): 
 - Model catalog and registries
 - Predictors
