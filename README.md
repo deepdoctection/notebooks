@@ -6,7 +6,6 @@
   </h3>
 </p>
 
-<<<<<<< Updated upstream
 # Breaking changes
 
 With the latest release of **deep**doctection v.0.33.0 the package has been refactored and is not compatible with 
