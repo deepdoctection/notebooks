@@ -18,7 +18,7 @@ version that is tagged with v.0.32.0
 In this repo you will find jupyter notebooks that used to be in the main repo [**deep**doctection](https://github.com/deepdoctection/deepdoctection). If you encouter problems, feel free to open an issue in the **deep**doctection repository.
 
 
-In addition, the repo contains a folder with examples that are used in the notebooks.
+In addition, the repo contains a folder with examples that are used in the notebooks.git 
 
 [Get_Started.ipynb](Get_Started.ipynb): 
 - Introduction to **deep**doctection
