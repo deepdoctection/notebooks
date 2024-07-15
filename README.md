@@ -6,6 +6,14 @@
   </h3>
 </p>
 
+# Breaking changes
+
+With the latest release of **deep**doctection v.0.33.0 the package has been refactored and is not compatible with 
+previous releases. If you are on a previous version, please update to the latest version or choose the repo
+version that is tagged with v.0.32.0
+
+# Jupyter Notebooks for **deep**doctection 
+
 In this repo you will find jupyter notebooks that used to be in the main repo [**deep**doctection](https://github.com/deepdoctection/deepdoctection). If you encouter problems, feel free to open an issue in the **deep**doctection repository.
 
 In addition, the repo contains a folder with examples that are used in the notebooks.
