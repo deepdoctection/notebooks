@@ -53,6 +53,20 @@ In addition, the repo contains a folder with examples that are used in the noteb
 - General configuration
 - Table segmentation
 
+[Doclaynet_with_YOLO.ipynb](Doclaynet_with_YOLO.ipynb)
+- Writing a predictor from a third party library
+- Adding the model wrapper for YOLO
+- Adding the model to the `ModelCatalog`
+- Modifying the factory class to build the Analyzer
+- Running the Analyzer with the YoloDetector
+
+[Doclaynet_Analyzer_Config.ipynb](Doclaynet_Analyzer_Config.ipynb)
+- Advanced Analyzer Configuration
+- Adding the model wrapper for YOLO
+- Configuration to parse the page with respect to granular layout segments
+- Extracting figures
+- Relating captions to figures and tables
+
 [Custom_Pipeline.ipynb](Custom_Pipeline.ipynb): 
 - Model catalog and registries
 - Predictors
