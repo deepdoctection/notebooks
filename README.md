@@ -19,7 +19,7 @@ In this repo you will find jupyter notebooks that used to be in the main repo [*
 
 In addition, the repo contains a folder with examples that are used in the notebooks.git 
 
-[Get_Started.ipynb](Get_Started.ipynb): 
+[Get_Started.ipynb](Analyzer_Get_Started.ipynb): 
 - Introduction to **deep**doctection
 - Analyzer 
 - Output structure: Page, Layouts, Tables
@@ -48,12 +48,12 @@ In addition, the repo contains a folder with examples that are used in the noteb
 - Word matching
 - Text ordering
 
-[Analyzer_with_Table_Transformer.ipynb](Analyzer_with_Table_Transformer.ipynb):
+[Analyzer_with_Table_Transformer.ipynb](Analyzer_Configuration_Samples.ipynb):
 - Analyzer configuration for running Table Transformer
 - General configuration
 - Table segmentation
 
-[Doclaynet_with_YOLO.ipynb](Doclaynet_with_YOLO.ipynb)
+[Doclaynet_with_YOLO.ipynb](Analyzer_Doclaynet_With_YOLO.ipynb)
 - Writing a predictor from a third party library
 - Adding the model wrapper for YOLO
 - Adding the model to the `ModelCatalog`
