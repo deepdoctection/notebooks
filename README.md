@@ -6,6 +6,10 @@
   </h3>
 </p>
 
+# News
+
+Check the new notebook on how to anonymize a PDF document with **deep**doctection. 
+
 # Breaking changes
 
 With the release of `v.1.0.0`, extensive changes were made in `deepdoctection`s internal. 
